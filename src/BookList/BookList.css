@@ -1,0 +1,9 @@
+.booklist__container {
+    background: #5a3c29;
+    display: flex;
+    flex-wrap: wrap;
+    opacity: .95;
+    padding: 5px;
+    margin: auto;
+    max-width: 1200px;
+}
